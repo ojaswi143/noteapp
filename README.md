@@ -17,7 +17,7 @@ A simple note app using Flutter.
 
 1. Notes are saved in mobile using sqflite database, so no internet connection is required.
 2. Fingerprint scanner for security.
-3. Date and time if needed can also be saved in notes.
+3. Date and time if needed can be saved in notes also.
 4. Notifications for the notes date and time is provided.
 
 ## APIs and Components used
@@ -32,7 +32,7 @@ A simple note app using Flutter.
 ## To try hands on the project
 Either just try installing the APK from [this link](https://github.com/ashu12chi/noteapp/releases/tag/First-Release); OR:
 1. Clone the project using link: https://github.com/ashu12chi/noteapp.git
-2. Import the project in Android Studio
+2. Import the project in Android Studio.
 3. Deploy the app to your Android or ios device and viola... you are good to go!
 
 ## Screenshots
@@ -45,4 +45,4 @@ Calender ![Calender](https://github.com/ashu12chi/noteapp/blob/master/Screnshots
 
 ## Future plan
 
-This is a very basic version of the app and I am going to implement a lot of features in this app (secret for now).
+This is a very basic version of the app and I am going to implement a lot of features in this app (PS:secret for now).
